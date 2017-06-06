@@ -1,14 +1,4 @@
 " .vimrc
-"
-" (Cl) 27/o4/2oo5 by 10t8or and others (Smylers, etc)
-" http://www.10t8or.com
-" 
-" This file contains no control codes and no `top bit set' characters above the
-" normal Ascii range, and all lines contain a maximum of 79 characters.  With a
-" bit of luck, this should make it resilient to being uploaded, downloaded,
-" e-mailed, posted, encoded, decoded, transmitted by morse code, or whatever.
-"
-" =)
 
 " Reference keys (to print out and put above your keyboard! ;):
 "
