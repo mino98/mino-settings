@@ -13,6 +13,7 @@ Feel free to plagiarize anything you find in here:
 
 ## Other stuff I use daily
 Terminal work involves:
+- [iTerm2](https://www.iterm2.com)
 - [RMATE](https://github.com/aurora/rmate)
 - [HomeBrew](https://brew.sh/)
 - [Tunnelblick](https://tunnelblick.net/)
